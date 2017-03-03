@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  SViewController.h
 //  pullDownMenu
 //
 //  Created by 纵昂 on 2017/3/3.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface SViewController : UIViewController
 
 @end
-
